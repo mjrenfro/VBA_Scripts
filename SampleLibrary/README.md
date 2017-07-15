@@ -1,0 +1,2 @@
+Microsoft Word macro (in Runner.docm) that identifies all files in the directory. If a file has the name of another other file,
+a link is created such that when clicked the docx file with the corresponding title is opened.
